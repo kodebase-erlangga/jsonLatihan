@@ -1,0 +1,4 @@
+<resources>
+        <string name="app_name">BookCoverApp</string>
+        <string name="book_cover">Cover Buku</string>
+</resources>
